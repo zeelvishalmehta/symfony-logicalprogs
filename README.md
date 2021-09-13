@@ -1,4 +1,4 @@
-# symfony and PHP Exercise
+# Symfony and PHP Exercise
  Code for Palindrome, Anagram and Pangram
  
 <b>Technical Requirements</b><br><br>
@@ -17,15 +17,15 @@
            php -S 127.0.0.1:8000 -t public
       5) Run symfony project on browser using http://127.0.0.1:8000.    
       6) Setting up twig template.
-           - First, we set up Twig.
+           - First, set up Twig.
                 $ composer require twig/twig
-           - We install Twig with composer.
+           - Install Twig with composer.
                 $ mkdir templates
       7) Create checker.php file inside public folder and write logic for the Palindrome, Anagram and Pangram.
       8) Create program.html.twig inside templates folder to show the output.
       9) Check output through localhost on browser using http://127.0.0.1:8000/checker.php.
        
   <b>Note:</b> There is a below github url for reviewing the code for palindrome, anagram and pangram.<br>
-                - https://github.com/zeelvishalmehta/symfony-logicalprogs/blob/main/public/checker.php
+                - https://github.com/zeelvishalmehta/symfony-logicalprogs/blob/main/public/checker.php<br>
                 - https://github.com/zeelvishalmehta/symfony-logicalprogs/blob/main/templates/program.html.twig
     
